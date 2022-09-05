@@ -1,2 +1,2 @@
 # naughts-and-crosses
-python 3.7 naughts anc crosses
+python 3.10 naughts and crosses
